@@ -1,1 +1,0 @@
-Console application to get a formatted multiplication table
